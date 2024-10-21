@@ -9,7 +9,7 @@
   </div>	
 
  <p align="center">
-<a href="https://github.com/MuahammadUnaid"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer;chat+bot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/MuahammadUnaid"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer;Generative Ai chat+bot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
