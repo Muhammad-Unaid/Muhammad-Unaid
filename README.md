@@ -59,7 +59,7 @@
   </a>
    <!-- Dialogflow -->
   <a href="https://dialogflow.cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Google_Dialogflow_logo.png" alt="Dialogflow" width="40" height="40"/>
+    <img src="https://e7.pngegg.com/pngimages/72/731/png-clipart-dialogflow-chatbot-conversation-google-natural-language-processing-google-angle-rectangle.png" alt="Dialogflow" width="40" height="40"/>
   </a>
 
   <!-- Kommunicate -->
