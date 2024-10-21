@@ -57,7 +57,27 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+   <!-- Dialogflow -->
+  <a href="https://dialogflow.cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Google_Dialogflow_logo.png" alt="Dialogflow" width="40" height="40"/>
+  </a>
+
+  <!-- Kommunicate -->
+  <a href="https://www.kommunicate.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.kommunicate.io/images/Kommunicate_Logo.svg" alt="Kommunicate" width="40" height="40"/>
+  </a>
+
+  <!-- WhatsApp Bot -->
+  <a href="https://www.whatsapp.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
+  </a>
+
+  <!-- Visual Studio Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="40" height="40"/>
+  </a>
 </div>
+
 
 </p>
 
