@@ -47,7 +47,7 @@
   </a>
 
    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -64,17 +64,21 @@
 
   <!-- Kommunicate -->
   <a href="https://www.kommunicate.io/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKWDQ0O4VV2nEohR7TSVUxDwEjCgNEpJLgew&s" alt="Kommunicate" width="40" height="40"/>
+    <img src="https://play-lh.googleusercontent.com/g_cVhua64KHADrE6D9BoTo40lENI2HAyTbUjKbqAdMYC7wakkU69XntsPrE9YuY5Lw" alt="Kommunicate" width="40" height="40"/>
   </a>
 
   <!-- WhatsApp Bot -->
   <a href="https://www.whatsapp.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
+    <img src="https://files.selar.co/product-images/2022/products/nifemiojo/customized-whatsapp-bot-selar.co-621c48fa5bb79.png" alt="WhatsApp" width="40" height="40"/>
   </a>
 
   <!-- Visual Studio Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="40" height="40"/>
+  </a>
+
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://www.enterprisebot.ai/hs-fs/hubfs/omnichannel-min.png?width=478&height=478&name=omnichannel-min.png" alt="ai chat" width="40" height="40"/>
   </a>
 </div>
 
@@ -85,7 +89,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muahammadunaid&show_icons=true&locale=en" alt="muahammadunaid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muahammadunaid&" alt="muahammadunaid" /></p>
+
 <h2>Tech Stack</h2>
 
 <table width="100">
@@ -98,14 +102,16 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png"  width="80">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
+        <img src="https://play-lh.googleusercontent.com/g_cVhua64KHADrE6D9BoTo40lENI2HAyTbUjKbqAdMYC7wakkU69XntsPrE9YuY5Lw" width="80">
     </td>
  <td align='center' width="200">
-        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
+        <img src="https://files.selar.co/product-images/2022/products/nifemiojo/customized-whatsapp-bot-selar.co-621c48fa5bb79.png" width="100">
     </td>
+     </td>
  <td align='center' width="200">
-        <img src="https://www.linkpicture.com/q/teachable.png">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="100">
     </td>
+
  
 </tr>
  
@@ -114,24 +120,47 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
     <td align='center'>
-        <img src="https://www.linkpicture.com/q/chatgpt_1.jpg" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
  <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="80">
     </td>
      <td align='center'>
-        <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
+    </td>
+	<td align='center'>
+        <img src="https://www.enterprisebot.ai/hs-fs/hubfs/omnichannel-min.png?width=478&height=478&name=omnichannel-min.png">
     </td>
 </tr>
  
 
     
 </table>
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammad-unaid-42697b277/"><img src="https://img.shields.io/badge/-Muhammad unaid?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:unaidsaab@gmail.com"><img src="#"/></a>
-<a href="#"><img src="#"/></a>
+
+
+ <div style="display: flex; gap: 10px;  padding-left: 50px;" >
+  <!-- WhatsApp -->
+  <a href="https://wa.me/923202059130" target="_blank" rel="noreferrer" style="padding-left: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/muhammad.unaid.12"  style="padding-left: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/muhammad-unaid-42697b277/" target="_blank" rel="noreferrer" style="padding-left: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:unaidsaab@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png" width="40" height="40"/>
+  </a>
+</div>
+
+
  </p>
  
 <br>
