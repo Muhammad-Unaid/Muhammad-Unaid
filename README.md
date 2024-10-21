@@ -64,7 +64,7 @@
 
   <!-- Kommunicate -->
   <a href="https://www.kommunicate.io/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKWDQ0O4VV2nEohR7TSVUxDwEjCgNEpJLgew&s" alt="Kommunicate" width="40" height="40"/>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHhuVvBH2z4ldOt7yNj6DrXCfslbSShkzRBx9mC4fCzzE0vG3KMi5t6rpLAiumrAxNGlXsDvfnJ6yUbQODLL-Tl1VqC4V3hZHIDHCDhPt6uWunyll9DXy3COt0krzPtM4pRB0lU7Um3Ug/s1600/dialogflow+logo.png" alt="Kommunicate" width="40" height="40"/>
   </a>
 
   <!-- WhatsApp Bot -->
