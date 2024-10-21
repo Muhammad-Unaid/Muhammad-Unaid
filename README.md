@@ -64,7 +64,7 @@
 
   <!-- Kommunicate -->
   <a href="https://www.kommunicate.io/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB1sheTlgd1DkGTJ0sMLAj44uA0RCQn5L-7Q&s" alt="Kommunicate" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKWDQ0O4VV2nEohR7TSVUxDwEjCgNEpJLgew&s" alt="Kommunicate" width="40" height="40"/>
   </a>
 
   <!-- WhatsApp Bot -->
