@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Generative Chatbot AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MuahammadUnaid](https://github.com/MuahammadUnaid)
+- 👨‍💻 All of my projects are available at [https://github.com/MuahammadUnaid](https://github.com/Muhammad-Unaid)
 
 - ⚡ Fun fact **I think I'm innocent**
 
@@ -27,6 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-unaid-42697b277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-unaid-42697b277/" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad.unaid.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.unaid.12" height="30" width="40" /></a>
+<a href="https://wa.me/923202059130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="muhammad.unaid.12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
