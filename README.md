@@ -59,12 +59,12 @@
   </a>
    <!-- Dialogflow -->
   <a href="https://dialogflow.cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/72/731/png-clipart-dialogflow-chatbot-conversation-google-natural-language-processing-google-angle-rectangle.png" alt="Dialogflow" width="40" height="40"/>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHhuVvBH2z4ldOt7yNj6DrXCfslbSShkzRBx9mC4fCzzE0vG3KMi5t6rpLAiumrAxNGlXsDvfnJ6yUbQODLL-Tl1VqC4V3hZHIDHCDhPt6uWunyll9DXy3COt0krzPtM4pRB0lU7Um3Ug/s1600/dialogflow+logo.png" alt="Dialogflow" width="40" height="40"/>
   </a>
 
   <!-- Kommunicate -->
   <a href="https://www.kommunicate.io/" target="_blank" rel="noreferrer">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHhuVvBH2z4ldOt7yNj6DrXCfslbSShkzRBx9mC4fCzzE0vG3KMi5t6rpLAiumrAxNGlXsDvfnJ6yUbQODLL-Tl1VqC4V3hZHIDHCDhPt6uWunyll9DXy3COt0krzPtM4pRB0lU7Um3Ug/s1600/dialogflow+logo.png" alt="Kommunicate" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB1sheTlgd1DkGTJ0sMLAj44uA0RCQn5L-7Q&s" alt="Kommunicate" width="40" height="40"/>
   </a>
 
   <!-- WhatsApp Bot -->
