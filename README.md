@@ -1,4 +1,4 @@
-![logo](https://github.com/MuahammadUnaid/MuahammadUnaid/blob/main/githubbaner.png)
+![logo](https://github.com/MuahammadUnaid/MuahammadUnaid/blob/main/github-banner.png)
 <body>
   
   <div align="center">
