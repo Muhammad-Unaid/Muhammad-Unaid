@@ -2,12 +2,14 @@
 <body>
   
   <div align="center">
-    <h1> Hi here, I'm Muhammad Unaid 
+	 <h1>   <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">
+     Hi here, I'm Muhammad Unaid 
 	    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif" height="45" width="45" />
 	    <a href="https://github.com/MuahammadUnaid/my_project1"></h1>
+		   
   </div>	
-
+<!-- <h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">About Me :</h2> -->
  <p align="center">
 <a href="https://github.com/MuahammadUnaid"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer;Generative+Ai+chat+bot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
